@@ -1,0 +1,2 @@
+Unfortunately, the API only allows you to get your 500 most recent matches. So in order to do a bigger study,
+ I'm collecting my 500 several times, storing them here, and hope to combine them together eventually.
