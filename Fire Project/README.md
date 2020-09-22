@@ -1,0 +1,2 @@
+New project started to explore the publically availible data on the California Fires.  
+This became increasingly interesting and important to me as right now, California is dealing with more fires than it has seen in many years, and I wan't to see what the data has to say about that
