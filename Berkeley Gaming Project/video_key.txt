@@ -1,0 +1,15 @@
+time - # hours played in week prior to survey
+like -  (How much they like to play) 1=Never Played, 2=Very Much, 3=Somewhat, 4=Not Really, 5=Not At All
+where - 1=Arcade, 2=Home System, 3=Home Computer, 4=Arcade and Either
+freq - (how often playing) 1=Daily, 2=Weekly, 3=Monthly, 4=Semesterly
+busy - (Play if Busy) 1=Yes, 0=No
+educ - (Playing educational) 1=Yes, 0=No
+sex - 1 = Male, 0 = Female
+age - Students age in years
+home - (Computer at Home) 1=Yes, 0=No
+math - (Hate Math) 1=Yes, 0=No
+work - # hours worked the week prior to study
+own - (Own's PC) 1=Yes, 0=No
+cdrom - (PC a CD ROM) 1=Yes, 0=No
+email - (Has Email) 1=Yes, 0=No
+grade - (Grade Expected) 4=A,3=B,2=C,1=D,0=F

@@ -2,3 +2,7 @@
 .idea/
 # JupyterCheckpoints
 .ipynb_checkpoints/
+
+**/CDP-ClimateData/Cities
+**/CDP-ClimateData/Corporations
+**/CDP-ClimateData/Supplementary Data
